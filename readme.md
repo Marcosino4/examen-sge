@@ -1,2 +1,3 @@
-# Buena suerte
-Resolviendo los conflictos
+#Prueba SGE
+marcos moreno
+Soy programador
